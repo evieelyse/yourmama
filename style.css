@@ -1,0 +1,22 @@
+/* Style definition 1 */
+body {
+    background-color:rgb(176, 221, 218);
+  }
+
+/* Style definition 2 */
+h1 {
+    color: rgb(10, 72, 27);
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style definition 3 */
+  p {
+    color: green;
+    font-family: Verdana, sans-serif;
+  }
+  
+  /* Style definition 4 */
+  h4 {
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+  }
